@@ -9,7 +9,7 @@ subject: 田代正義
 - 田代正義（代表）note プロフィール: https://note.com/engineermikata  
   - プロフィール文に「エンジニアの生涯所得最大化」、X（旧Twitter）へのリンクあり。
 - 田代の X（プロフィールからリンク）: https://x.com/engineermikata  
-  - 本リポジトリからの取得は 403 のため、閲覧はブラウザで実施推奨。
+  - 本リポジトリからの自動取得は 403（ブロック）だった。`notes/research_blockers_and_next_actions.md` の B1 を参照し、手動取得（観測日時つき）で補完する。
 
 ## 法人・サービス
 
