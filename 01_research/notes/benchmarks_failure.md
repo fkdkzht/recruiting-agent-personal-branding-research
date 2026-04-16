@@ -24,6 +24,16 @@ related: ./benchmark_comparison_template.md
 
 ---
 
+## 確定題材（2026-04-16）— P1b の一次情報起点
+
+| ID | 題材 | failure_mode（比較表の列） | 一次情報（根拠ファイル） |
+| --- | --- | --- | --- |
+| F1 | はんじょう（UUUM所属）／情報商材疑惑の拡散 | `credibility_crisis_via_past_association_and_sns_amplification` | [`../sources/2026-04-16_failure-hanjou-uuuum_sources.md`](../sources/2026-04-16_failure-hanjou-uuuum_sources.md) |
+| F2 | 株式会社DYM／DYM就職・DYM新卒（優良誤認） | `misleading_performance_claims_regulatory_order` | [`../sources/2026-04-16_failure-dym-job-support_sources.md`](../sources/2026-04-16_failure-dym-job-support_sources.md) |
+| F3 | 永信国際株式会社／派遣+有料職業紹介（許可取消） | `license_revocation_due_to_disqualification` | [`../sources/2026-04-16_failure-eishin-kokusai-license-revocation_sources.md`](../sources/2026-04-16_failure-eishin-kokusai-license-revocation_sources.md) |
+
+---
+
 ## 1件の骨子（F1 を深掘りする場合の設計）
 
 - **問い**: 「肩書き・実績の権威づけ」が、ターゲット（原石層）に**どの言語化のとき**拒絶されるか。
