@@ -1,16 +1,16 @@
 ---
-title: 一次情報リンク集｜株式会社DYM／就職支援サービス（DYM就職・DYM新卒）景品表示法（優良誤認）
+
+## title: 一次情報リンク集｜株式会社DYM／就職支援サービス（DYM就職・DYM新卒）景品表示法（優良誤認）
 date: 2026-04-16
 subject: 株式会社DYM（組織）
 service: DYM就職 / DYM新卒（就職支援サービス）
 failure_mode: misleading_performance_claims_regulatory_order
----
 
 ## 公的機関（一次情報）
 
-- 消費者庁「株式会社DYMに対する景品表示法に基づく措置命令について」（2022-04-27）: https://www.caa.go.jp/notice/entry/028525/  
+- 消費者庁「株式会社DYMに対する景品表示法に基づく措置命令について」（2022-04-27）: [https://www.caa.go.jp/notice/entry/028525/](https://www.caa.go.jp/notice/entry/028525/)  
   - 「DYM就職」「DYM新卒」に係る表示について、景品表示法第5条第1号（優良誤認）に該当する行為が認められた旨、措置命令を行った旨が記載。
-- 公表資料（PDF）: https://www.caa.go.jp/notice/assets/representation_cms207_220427_01.pdf  
+- 公表資料（PDF）: [https://www.caa.go.jp/notice/assets/representation_cms207_220427_01.pdf](https://www.caa.go.jp/notice/assets/representation_cms207_220427_01.pdf)  
   - 対象表示の“表示内容”と、“実際”が文章で明記されている（本ファイルの「抜粋」参照）。
   - ローカル保存: `01_research/sources/caa_representation_cms207_220427_01.pdf`
 

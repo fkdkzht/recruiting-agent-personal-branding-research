@@ -16,21 +16,25 @@ related: ./benchmark_comparison_template.md
 
 ## 調査候補（3件）— まずは仮置き
 
-| ID | 題材の方向性 | 要件との紐づけ | 次に取る一次情報 |
-| --- | --- | --- | --- |
-| F1 | 権威・肩書きを前面にし、コミュニティ／SNSで**拒絶・炎上・期待差**が観測された人物・商材 | 肩書き依存のリスク | 当該人物の発信アーカイブ、第三者報道、本人の釈明投稿の有無（**実名を入れるのはソース取得後**） |
-| F2 | 求人媒体・マッチングで**応募数・登録数は伸びたが品質・成約で批判**されたモデル | 数だけ取れて質が落ちた | 決算説明・プレス、利用者レビュー、労働組合・行政指摘の有無 |
-| F3 | 転職系インフルエンサーで**一時的バズ後に信頼毀損**したパターン（具体は未固定） | リードと信頼・成約の分離 | 発信の時系列、紹介先エージェントの期待値、顧客声 |
+
+| ID  | 題材の方向性                                          | 要件との紐づけ      | 次に取る一次情報                                          |
+| --- | ----------------------------------------------- | ------------ | ------------------------------------------------- |
+| F1  | 権威・肩書きを前面にし、コミュニティ／SNSで**拒絶・炎上・期待差**が観測された人物・商材 | 肩書き依存のリスク    | 当該人物の発信アーカイブ、第三者報道、本人の釈明投稿の有無（**実名を入れるのはソース取得後**） |
+| F2  | 求人媒体・マッチングで**応募数・登録数は伸びたが品質・成約で批判**されたモデル       | 数だけ取れて質が落ちた  | 決算説明・プレス、利用者レビュー、労働組合・行政指摘の有無                     |
+| F3  | 転職系インフルエンサーで**一時的バズ後に信頼毀損**したパターン（具体は未固定）       | リードと信頼・成約の分離 | 発信の時系列、紹介先エージェントの期待値、顧客声                          |
+
 
 ---
 
 ## 確定題材（2026-04-16）— P1b の一次情報起点
 
-| ID | 題材 | failure_mode（比較表の列） | 一次情報（根拠ファイル） |
-| --- | --- | --- | --- |
-| F1 | はんじょう（UUUM所属）／情報商材疑惑の拡散 | `credibility_crisis_via_past_association_and_sns_amplification` | [`../sources/2026-04-16_failure-hanjou-uuuum_sources.md`](../sources/2026-04-16_failure-hanjou-uuuum_sources.md) |
-| F2 | 株式会社DYM／DYM就職・DYM新卒（優良誤認） | `misleading_performance_claims_regulatory_order` | [`../sources/2026-04-16_failure-dym-job-support_sources.md`](../sources/2026-04-16_failure-dym-job-support_sources.md) |
-| F3 | 永信国際株式会社／派遣+有料職業紹介（許可取消） | `license_revocation_due_to_disqualification` | [`../sources/2026-04-16_failure-eishin-kokusai-license-revocation_sources.md`](../sources/2026-04-16_failure-eishin-kokusai-license-revocation_sources.md) |
+
+| ID  | 題材                        | failure_mode（比較表の列）                                             | 一次情報（根拠ファイル）                                                                                                                                               |
+| --- | ------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| F1  | はんじょう（UUUM所属）／情報商材疑惑の拡散   | `credibility_crisis_via_past_association_and_sns_amplification` | `[../sources/2026-04-16_failure-hanjou-uuuum_sources.md](../sources/2026-04-16_failure-hanjou-uuuum_sources.md)`                                           |
+| F2  | 株式会社DYM／DYM就職・DYM新卒（優良誤認） | `misleading_performance_claims_regulatory_order`                | `[../sources/2026-04-16_failure-dym-job-support_sources.md](../sources/2026-04-16_failure-dym-job-support_sources.md)`                                     |
+| F3  | 永信国際株式会社／派遣+有料職業紹介（許可取消）  | `license_revocation_due_to_disqualification`                    | `[../sources/2026-04-16_failure-eishin-kokusai-license-revocation_sources.md](../sources/2026-04-16_failure-eishin-kokusai-license-revocation_sources.md)` |
+
 
 ---
 

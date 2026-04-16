@@ -1,25 +1,25 @@
 ---
-title: 一次情報リンク集｜渡邉拓哉／Staneer（スタニア）
+
+## title: 一次情報リンク集｜渡邉拓哉／Staneer（スタニア）
 date: 2026-04-16
 subject: 渡邉拓哉
 service: Staneer（スタニア）
----
 
 ## 公式・本人発信
 
-- 渡邉 拓哉 note プロフィール（「転職エージェント2.0」）: https://note.com/watanabe_staneer
+- 渡邉 拓哉 note プロフィール（「転職エージェント2.0」）: [https://note.com/watanabe_staneer](https://note.com/watanabe_staneer)
   - 「AI時代に求められるエージェント」「候補者が気づかない奥底の『熱量』を見抜き、人生の決断に伴走」等の価値訴求を含む。
 
 ## 法人・サービス
 
-- Staneer 公式（トップ）: https://staneer.co.jp/
+- Staneer 公式（トップ）: [https://staneer.co.jp/](https://staneer.co.jp/)
   - “個人ファースト型”転職エージェント、完全無料キャリアセッション、特徴（コーチング/特化領域/所属コンサルタントの背景）、代表プロフィール等の記載あり。
-- Staneer 公式（利用規約ページだがサービス説明の一部を含む）: https://staneer.co.jp/service/
+- Staneer 公式（利用規約ページだがサービス説明の一部を含む）: [https://staneer.co.jp/service/](https://staneer.co.jp/service/)
   - 「IT・Web業界を中心としたスタートアップ転職『キャリアコーチング × エージェント』」の提供、および「ENTRY」見出しでキャリアセッション実施の記載あり。
 
 ## 相談・申込み導線（入口）
 
-- Pitta（渡邉拓哉のカジュアル面談一覧）: https://pitta.me/companies/TuZRnMxmRMpRoDPh/users/yrgstBiWka3X4tTopSW2_
+- Pitta（渡邉拓哉のカジュアル面談一覧）: [https://pitta.me/companies/TuZRnMxmRMpRoDPh/users/yrgstBiWka3X4tTopSW2](https://pitta.me/companies/TuZRnMxmRMpRoDPh/users/yrgstBiWka3X4tTopSW2)_
   - 「カジュアル面談」募集が複数並ぶ。経歴・資格・ミッション（“シゴト”を通じて…）などプロフィール情報も記載。
 
 ## 取得メモ
@@ -43,7 +43,7 @@ service: Staneer（スタニア）
 ### 利用規約（`https://staneer.co.jp/service/`）で確認できる補助情報（2026-04-16 取得）
 
 - 「IT・Web業界を中心としたスタートアップ転職『キャリアコーチング × エージェント』サービスを提供」
-- 「転職だけでなく、現職残留も視野に入れながら、”個人ファースト\"のキャリアセッションを実施。」
+- 「転職だけでなく、現職残留も視野に入れながら、”個人ファーストのキャリアセッションを実施。」
 
 ### Pitta（入口・代表プロフィールの補強）で確認できる主張（2026-04-16 取得）
 
@@ -57,7 +57,7 @@ service: Staneer（スタニア）
 
 - 面談時間:
   - 「面談時間 45min」
-  - 出典: https://pitta.me/matches/NUqGSUUSsacP
+  - 出典: [https://pitta.me/matches/NUqGSUUSsacP](https://pitta.me/matches/NUqGSUUSsacP)
 
 ## 不足点（一次情報で未確認のまま残るもの）
 
@@ -67,6 +67,6 @@ service: Staneer（スタニア）
 
 ## 補助情報（一次ではないが、体制推定の材料）
 
-- Wantedly（メンバー一覧）: https://www.wantedly.com/companies/company_1102960/members
-- ミドルの転職（外部プロフィール）: https://mid-tenshoku.com/consultant/c-5933243/
+- Wantedly（メンバー一覧）: [https://www.wantedly.com/companies/company_1102960/members](https://www.wantedly.com/companies/company_1102960/members)
+- ミドルの転職（外部プロフィール）: [https://mid-tenshoku.com/consultant/c-5933243/](https://mid-tenshoku.com/consultant/c-5933243/)
   - 外部サイト上で従業員規模等が示される場合があるが、公式一次としては扱わず、P3で「要検証」扱いにする。
